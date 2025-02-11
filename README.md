@@ -9,5 +9,8 @@ I have designed electronic cards and complex systems in robotics, wire guidance.
 Today, I develop according to my inspiration in a few languages, including LAZARUS, one of my favorites.
 I am still interested in electronics but using ready-made modules: esp32, arduino, raspberry....
 
+
+Here are the projects I have made available on github {project list](https://github.com/neuts-jl?tab=repositories)
+
 Welcome to my GitHub profile!
 
